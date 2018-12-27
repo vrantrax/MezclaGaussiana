@@ -1,4 +1,4 @@
-# MezclaGaussiana
+# Mezcla Gaussiana
 Ejemplo de mezcla gaussiana.
 
 # Dependencias
@@ -10,3 +10,4 @@ Ejemplo de mezcla gaussiana.
 * pandas
 * math
 * random
+
